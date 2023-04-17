@@ -1,8 +1,15 @@
 # Seattle-Weather
 # Description of the Project
 The purpose of this project is to compare the rainy weather between cities Seattle, WA and St. Louis, MO. 
+Overview of the project includes: 
+- Data preparation process: https://github.com/fawniechau/Seattle-Weather/blob/main/Chau_Tina_DATA_3320_Seattle_St_Louis_Data_Preparation_Template.ipynb 
+- Data analysis process: https://github.com/fawniechau/Seattle-Weather/blob/main/Chau_Tina_of_DATA_3320_Seattle_St_Louis_Analysis_Template.ipynb
+- Data report: https://github.com/fawniechau/Seattle-Weather/blob/main/DATA%203320_%20Analysis%20Report%20(1).pdf
+
+General conclusions: 
+- Even though both cities display distinct seasonal weather patterns, St. Louis has a higher average precipitation rate than Seattle. 
 # Authors 
-Martina Chau: 4th year Marketing & Data Science student
+Tina Chau: 4th year Marketing & Data Science student
 
 Links: https://www.linkedin.com/in/tchau0907/
 # Requirements 
